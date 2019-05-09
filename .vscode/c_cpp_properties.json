@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "TDM-GCC",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/TDM-GCC-64/bin/g++.exe",
+            "includePath": [
+                "${workspaceFolder}"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
